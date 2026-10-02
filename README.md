@@ -4,13 +4,14 @@
 
   <!-- Dynamic Typing Effect -->
   <a href="https://github.com/aymansalama48">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=007ACC&center=true&vCenter=true&width=500&height=40&lines=Junior+.NET+Backend+Developer;ASP.NET+Core+%7C+EF+Core+%7C+SQL+Server;Clean+Architecture+%26+Multi-Tenant" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=007ACC&center=true&vCenter=true&width=550&height=40&lines=.NET+Backend+Developer;ASP.NET+Core+%7C+EF+Core+%7C+SQL+Server;Clean+Architecture+%26+CQRS+%26+Multi-Tenant" alt="Typing SVG" />
   </a>
 
   <!-- Badges & Links -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=aymansalama48&label=Profile%20Views&color=007ACC&style=flat-square" alt="Views" />
     <a href="https://linkedin.com/in/aymansalama48"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="https://aymansalama48.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-007ACC?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
     <a href="https://wa.me/201501435003"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
     <a href="mailto:Ayman.Backend@Gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail" alt="Email" /></a>
   </p>
@@ -20,51 +21,73 @@
 
 ### 👨‍💻 Professional Summary
 
-Junior .NET Backend Developer with hands-on experience building RESTful APIs and multi-tenant systems using **ASP.NET Core**, **Clean Architecture**, **CQRS**, **EF Core**, and **SQL Server** <!--[cite: 2] -->. Strong problem solver focused on secure backend design and clean, maintainable code <!--[cite: 2] -->.
+.NET Backend Developer with hands-on experience in **ASP.NET Core**, **EF Core**, **SQL Server**, **Clean Architecture**, and **CQRS**. Built 3 backend systems featuring multi-tenancy, RBAC, caching, concurrency handling, and background processing.
 
-- 📍 **Location:** Cairo, Egypt <!--[cite: 2] -->
-- 📧 **Email:** Ayman.Backend@Gmail.com <!--[cite: 2] -->
-- 📱 **Phone:** +20 150 143 5003 <!--[cite: 2] -->
+- 📍 **Location:** Cairo, Egypt
+- 📧 **Email:** Ayman.Backend@Gmail.com
+- 📱 **Phone:** +20 150 143 5003
+- 🌐 **Portfolio:** [aymansalama48.github.io/portfolio](https://aymansalama48.github.io/portfolio)
+
+---
+
+### 💼 Work Experience
+
+#### Backend Development Intern — CodePlus *(Aug 2026 – Sep 2026 | Cairo, Egypt)*
+* Completed an intensive .NET backend internship covering **CQRS/MediatR**, **caching**, **background processing**, **Docker**, and **CI/CD**.
+* Architected the backend foundation and delivered 6+ features (auth, booking, wallet, sessions) for the **Skill-Loop** graduation project in a 4-person team.
 
 ---
 
 ### 🛠️ Technical Skills
 
-- **Backend Development:** `C#` • `ASP.NET Core Web API` • `ASP.NET Core Identity` • `RESTful APIs` • `EF Core` • `JWT Authentication` • `RBAC` • `Dependency Injection` <!--[cite: 2] -->
-- **Architecture & Patterns:** `Clean Architecture` • `CQRS` • `MediatR` • `Vertical Slice Architecture` • `Result Pattern` • `FluentValidation` • `Multi-Tenant Architecture` <!--[cite: 2] -->
-- **Database & Persistence:** `SQL Server` • `EF Core` • `LINQ` • `Global Query Filters` • `SaveChanges Interceptors` <!--[cite: 2] -->
-- **Frontend Integration:** `React` • `TypeScript` • `JavaScript` <!--[cite: 2] -->
-- **Tools & Testing:** `Git` • `GitHub` • `Postman` • `Swagger/OpenAPI` • `Serilog` • `xUnit` <!--[cite: 2] -->
+- **Backend Development:** `C#` • `ASP.NET Core Web API` • `RESTful APIs` • `ASP.NET Core Identity` • `JWT Authentication` • `RBAC` • `Dependency Injection` • `Hangfire` • `SignalR` • `Caching`
+- **Architecture & Patterns:** `SOLID Principles` • `Design Patterns` • `Clean Architecture` • `CQRS` • `MediatR` • `Vertical Slice Architecture` • `Multi-Tenant Architecture` • `Domain Events` • `Outbox Pattern` • `Result Pattern` • `FluentValidation`
+- **Database & Persistence:** `SQL Server` • `Entity Framework Core` • `LINQ` • `Redis`
+- **Testing:** `Unit Testing` • `xUnit` • `Moq`
+- **DevOps & Tools:** `Docker` • `CI/CD` • `Git` • `GitHub` • `Postman` • `Swagger/OpenAPI` • `Scalar` • `Serilog`
+- **Frontend Integration:** `React` • `TypeScript`
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 1. 🚀 **[CodePilot](https://github.com/aymansalama48/CodePilot) — Multi-Tenant Project & Client Management Platform** *(Jun 2026 – Present)* <!--[cite: 2] -->
-* **Tech Stack:** `ASP.NET Core` • `Clean Architecture` • `CQRS` • `MediatR` • `EF Core` • `SQL Server` • `JWT Authentication` • `RBAC` <!--[cite: 2] -->
-* Designed feature modules using **Vertical Slice Architecture** with independent Commands, Queries, and Handlers <!--[cite: 2] -->.
-* Enforced multi-tenant isolation, permission-based authorization, and consistent API error handling through custom pipeline behaviors, JWT authentication, OAuth integration, and a Result/Error pattern <!--[cite: 2] -->.
-* Automated audit trails, soft deletes, and a 9-template transactional email system via **EF Core Interceptors** <!--[cite: 2] -->.
+#### 1. 🔁 **[Skill-Loop](https://github.com/aymansalama48/Skill-Loop-Backend) — Peer-to-Peer Skill-Sharing Platform** *(Aug 2026 – Sep 2026)*
+*CodePlus Internship Graduation Project | Team of 4*
 
-#### 2. 🛒 **[CommerceOs](https://github.com/aymansalama48/CommerceOs) — Multi-Tenant E-Commerce Platform** *(Jan 2026 – May 2026)* <!--[cite: 2] -->
-* **Tech Stack:** `ASP.NET Core` • `EF Core` • `SQL Server` • `ASP.NET Core Identity` • `JWT` • `React 19` • `TypeScript` • `Serilog` <!--[cite: 2] -->
-* Eliminated cross-tenant data leaks across 35+ tables using **EF Core Global Query Filters** <!--[cite: 2] -->.
-* Engineered a 10-state order lifecycle with RBAC-gated transitions, supported by dual JWT sessions across 7 roles and silent token refresh <!--[cite: 2] -->.
-* Delivered a React storefront with dynamic pricing, coupon logic, and real-time shipping calculation <!--[cite: 2] -->.
+* **Tech Stack:** `.NET 10` • `ASP.NET Core` • `Clean Architecture` • `CQRS` • `MediatR` • `EF Core` • `SQL Server` • `Redis` • `Hangfire` • `SignalR`
+* Architected the project foundation: CQRS/MediatR pipeline, pluggable **Redis Cache-Aside** with event-driven invalidation, **Outbox Pattern**, and email service.
+* Engineered **JWT + Google OAuth** with database-driven RBAC, dynamic permission management, and a staff invitation flow with OTP.
+* Built the session-booking-wallet pipeline: availability validation, capacity guards, **optimistic concurrency (RowVersion)**, and automated credit refunds.
+
+#### 2. 🏥 **[ClinicOS](https://github.com/aymansalama48/ClinicOS) — Clinic Management & Appointment API** *(Jul 2026 – Sep 2026)*
+
+* **Tech Stack:** `ASP.NET Core Web API` • `Clean Architecture` • `CQRS` • `MediatR` • `EF Core` • `SQL Server` • `JWT` • `Hangfire`
+* Designed JWT/OAuth authentication with database-driven RBAC via a `PermissionAttribute` / `AuthorizationBehavior` pipeline.
+* Built a concurrency-safe priority queue across 3 staff roles, handling booking vs. walk-in conflicts.
+* Automated audit trails and workflows using **EF Core Interceptors**, email notification templates, and background job scheduling.
+
+#### 3. 🛒 **[CommerceOs](https://github.com/aymansalama48/CommerceOs) — Multi-Tenant E-Commerce Platform** *(Jan 2026 – May 2026)*
+
+* **Tech Stack:** `ASP.NET Core` • `EF Core` • `SQL Server` • `ASP.NET Core Identity` • `JWT` • `React 19` • `TypeScript` • `Serilog`
+* Eliminated cross-tenant data leaks across 35+ tables using **EF Core Global Query Filters**.
+* Engineered a 10-state order lifecycle with RBAC-gated transitions across 7 roles and dual JWT sessions.
+* Delivered a React storefront with dynamic pricing, coupon logic, and real-time shipping calculation.
 
 ---
 
 ### 🎓 Education
 
-- **Bachelor's Degree in Management Sciences** *(Oct 2020 – May 2024)* <!--[cite: 2] -->
-  *Higher Institute for Computer and Administrative Information Systems* — **Grade:** Very Good <!--[cite: 2] -->
+- **.NET Web Development Diploma** *(Aug 2024 – Dec 2025 | Cairo, Egypt)*
+  *IT Legend* — Coursework: OOP, Advanced C#, Data Structures & Algorithms, SQL Server, ASP.NET Core
+- **Bachelor's Degree in Management Sciences** *(Oct 2020 – May 2024 | Cairo, Egypt)*
+  *Higher Institute for Computer and Administrative Information Systems*
 
 ---
 
 ### 🌐 Languages
 
-- **Arabic:** Native <!--[cite: 2] -->
-- **English:** Working Proficiency <!--[cite: 2] -->
+- **Arabic:** Native
+- **English:** Working Proficiency
 
 ---
 
